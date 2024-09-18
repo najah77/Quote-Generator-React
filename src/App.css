@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+
+.cardBody{
+    margin-left: 400px;
+    margin-top: 150px;
+    text-align: center;
+}
+.cardBody h3{
+    font-style: italic;
+}
+
+
